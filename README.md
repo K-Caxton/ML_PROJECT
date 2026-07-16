@@ -29,5 +29,6 @@ A machine learning project that compares the performance of K-Nearest Neighbors 
 
 **Caxton Kiptoo**  
 **Justus Onyango**
+
 Bachelor of Science in Statistics and Data Science  
 Strathmore University
