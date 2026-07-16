@@ -22,7 +22,8 @@ A machine learning project that compares the performance of K-Nearest Neighbors 
 
 - `financial_inclusion.ipynb` – Jupyter Notebook containing the implementation.
 - `Train.csv` – Dataset used for model training.
-- `Presentation.pptx` – Project presentation.
+- `ML_project ppt.pptx` – Project presentation.
+- `ML_project Report.docx` - Project Report
 - `README.md` – Project documentation.
 
 ## Author
